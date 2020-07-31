@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:black;
+    width:100%;
+}
+.container__movie{
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    align-items: center;
+    width:100%;
+}

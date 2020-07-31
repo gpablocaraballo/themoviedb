@@ -1,0 +1,30 @@
+.header{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top:25px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.header__title{
+    padding-top:15px;
+    font-weight: bold;
+    font-size:2.5em;
+    color:white;
+    font-family: 'Permanent Marker', cursive;    
+}
+.footer{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    color:white;
+    padding-bottom:20px;
+}
+.footer__title{
+    padding-top:15px;
+    font-weight: 600;
+    font-size: 1;
+    text-align: center;
+}
