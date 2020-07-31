@@ -1,5 +1,5 @@
 # themoviedb
-React App demo/challenge using themoviedb.org endpoint
+_React App demo/challenge using themoviedb.org endpoint_
 
 #INSTRUCTIONS
 
