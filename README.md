@@ -31,7 +31,7 @@ npm start
 
 _TESTING: You can try some testing stuff using jest, simple run -> npm test_
 
-_TESTING files: Inside src/__testing__/all.test.js_
+_TESTING files: Inside src/[__testing__]/all.test.js_
 
 _PAGINATION: For this challenge, pagination is not mandatory, but be aware that in a real final app, themoviedb endpoint is using page numbers._
 
