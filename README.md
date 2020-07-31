@@ -29,7 +29,7 @@ npm start
 
 ### OTHERS - COMMENTS - FAQS
 
-_TESTING: You can try some testing stuff using jest, simple run -> npm test_
+_TESTING: You can try some testing stuff using jest, simple run -> npm test , then in the menu you can press "a" to run all test_
 
 _TESTING files: Inside src/__testing__/all.test.js_
 
