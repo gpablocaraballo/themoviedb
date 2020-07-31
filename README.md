@@ -29,6 +29,8 @@ npm start
 
 ### OTHERS - COMMENTS - FAQS
 
+_APP KEY: You can change with another "themoviedb app key" in src\components\utilities\utils.js  (var my_app_key), for the challenge purpose i leave mine (just for the demo only)_
+
 _TESTING: You can try some testing stuff using jest, simple run -> npm test , then in the menu you can press "a" to run all test_
 
 _TESTING files: Inside src/__testing__/all.test.js_
