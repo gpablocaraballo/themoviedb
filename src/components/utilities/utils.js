@@ -2,7 +2,7 @@ import axios from "axios";
 
 //my_app_key: for challenge purpose i share to you my app key (but remember to use your themoviedb app key please :P )
 //in the future i just simple "re generate" mine.
-var my_app_key = "d6fb7c511a1a779f096cb96b3fd49f75";
+var my_app_key = "";
 
 /*
 WARNING: the page themoviedb is ready to pass page number (pagination ready)
