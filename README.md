@@ -45,7 +45,7 @@ _Logic components: on the main component the state components with the main logi
 ### FAQS:
 
 * Q. ¿Man, you put your themoviedb personal app ke, why?
-* A. Dont worry, i change it later (its better for the demo).
+* A. Dont worry, i change it later (Edit i already changed it).
 
 * Q. ¿Why dont use pagination?, themoviedb is using it.
 * A. Well, i know, but for this challenge was not mandatory (but yes, in a real case, you must develop pagination 
