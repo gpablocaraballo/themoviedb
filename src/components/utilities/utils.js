@@ -1,7 +1,6 @@
 import axios from "axios";
 
-//my_app_key: for challenge purpose i share to you my app key (but remember to use your themoviedb app key please :P )
-//in the future i just simple "re generate" mine.
+//my_app_key: (remember to use your themoviedb app key please :P )
 var my_app_key = "";
 
 /*
